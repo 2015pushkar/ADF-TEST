@@ -1,0 +1,9 @@
+{
+	"name": "adfforsandbox001",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c273ecd-2c0a-4c52-ad82-07e344fa4dc2",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
